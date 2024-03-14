@@ -1,0 +1,27 @@
+#blue{
+  margin-left: 460px;
+
+}
+#blue2{
+    position: relative;
+    margin-left: 440px;
+    bottom: 20px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    
+}
+.ph{
+    width: 200px;
+    height: 200px ;
+    margin-left: 385px;
+  border: solid;
+  border-radius: 50px;
+}
+.last{
+   font-size:smaller;
+}
+#lat1{
+  font-size:larger;
+  margin-left: 100px;
+
+} 
+  
